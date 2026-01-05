@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "814327490018",
+    "project_id": "securitycam-667ad",
+    "storage_bucket": "securitycam-667ad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814327490018:android:a7af4227d21dbad0bd85bb",
+        "android_client_info": {
+          "package_name": "com.example.myalfred"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGnkcQ5s9JMOikaNtNTjZ4GiMGd66_F98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814327490018:android:d87877283edffbf3bd85bb",
+        "android_client_info": {
+          "package_name": "com.example.teststreamapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGnkcQ5s9JMOikaNtNTjZ4GiMGd66_F98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

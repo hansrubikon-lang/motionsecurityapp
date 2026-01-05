@@ -1,0 +1,7 @@
+# Große Java Heap Dumps (niemals committen)
+*.hprof
+
+# Android / IntelliJ
+.idea/
+.gradle/
+build/
